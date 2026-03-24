@@ -57,12 +57,13 @@ I'm a passionate developer who loves building innovative solutions and exploring
   
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=ngviet291&theme=darkhub&no-frame=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+![](https://img.shields.io/github/stars/ngviet291?style=for-the-badge&color=yellow&label=Total%20Stars)
+![](https://img.shields.io/github/followers/ngviet291?style=for-the-badge&color=blueviolet&label=Followers)
+
 </div>
 
 ## 📈 Contribution Graph
