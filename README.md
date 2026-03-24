@@ -61,7 +61,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=ngviet291&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ngviet291&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800)
   
 </div>
 
